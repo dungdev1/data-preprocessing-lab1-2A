@@ -1,5 +1,8 @@
 # data-preprocessing-lab1-2A
 A solution for data preprocessing lab1, part 2A, HCMUS, Ho Chi Minh City, VietNam
+
+## Threads
+[data-mining_lab1](https://www.dropbox.com/s/jmyi1e02ud5kgs0/2019-CSC14004-KTDLUD-Lab01.pdf?dl=0)
 ## Run
 a) lab1.py "propList" -i/--input_path "path" -o/--output_path "path" -t/--task "minMaxNormalization" --new_min "min" --new_max "max"
 where 	- new_min, new_max is option: default is 0.0 and 1.0
